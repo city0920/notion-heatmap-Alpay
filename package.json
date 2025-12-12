@@ -1,0 +1,11 @@
+{
+  "name": "notion-heatmap-svc",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@notionhq/client": "^1.0.0",
+    "date-fns": "^3.6.0"
+  }
+}
